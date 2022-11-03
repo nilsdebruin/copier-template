@@ -4,5 +4,10 @@ repository_owner:
 
 _subdirectory: copier-template
 
-_answers-file: .copier-answers-github-actions-deployment-4afc07a0-63f3-4e21-af38-3ccbb3e92ffe.yml
-
+_exclude:
+    - "~*"
+    - "*.py[co]"
+    - "__pycache__"
+    - ".git"
+    - ".DS_Store"
+    - ".svn"
