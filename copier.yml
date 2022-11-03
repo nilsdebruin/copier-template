@@ -1,0 +1,8 @@
+repository_owner:
+  type: str
+  default: nilsdebruin
+
+_subdirectory: copier-template
+
+_answers-file: .copier-answers-github-actions-deployment-4afc07a0-63f3-4e21-af38-3ccbb3e92ffe.yml
+
