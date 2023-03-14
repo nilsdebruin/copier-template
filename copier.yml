@@ -13,3 +13,4 @@ _exclude:
     - ".git"
     - ".DS_Store"
     - ".svn"
+    - "copier-template/copier-template/copier-instances/{{ _copier_conf.answers_file }}.jinja"
