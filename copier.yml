@@ -1,0 +1,15 @@
+repository_owner:
+  type: str
+  default: nilsdebruin
+
+_subdirectory: copier-template
+
+_answers_file: ./copier-instances/.copier-answers-copier-template-4afc07a0-63f3-4e21-af38-3ccbb3e92ffe.yml
+
+_exclude:
+    - "~*"
+    - "*.py[co]"
+    - "__pycache__"
+    - ".git"
+    - ".DS_Store"
+    - ".svn"
