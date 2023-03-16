@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.1.1](https://github.com/nilsdebruin/copier-template/compare/v1.1.0...v1.1.1) (2023-03-16)
+
+
+### Bug Fixes
+
+* **README.md:** removed README.md as this is not needed in the instance ([efd74bd](https://github.com/nilsdebruin/copier-template/commit/efd74bd0b52d3fcb8f2c9446f72755b1d3946bc8))
+
 ## [1.1.0](https://github.com/nilsdebruin/copier-template/compare/v1.0.0...v1.1.0) (2023-03-15)
 
 
