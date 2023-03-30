@@ -7,7 +7,7 @@ copier_template_name:
 
 _subdirectory: copier-template
 
-_answers_file: ./copier-instances/.copier-answers-{{ copier_template_name }}-4afc07a0-63f3-4e21-af38-3ccbb3e92ffe.yml
+_answers_file: ./copier-instances/.copier-answers-copier-template-4afc07a0-63f3-4e21-af38-3ccbb3e92ffe.yml
 
 _exclude:
     - "~*"
