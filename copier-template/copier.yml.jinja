@@ -8,4 +8,4 @@ copier_template_name:
 
 copier_template_guid:
   type: str
-  default: "{% from 'guid.jinja' import random_guid %}{{ random_guid() }}"
+  default: {{ '"{% from 'guid.jinja' import random_guid %}{{ random_guid() }}"' }}
