@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.2](https://github.com/nilsdebruin/copier-template/compare/v1.2.1...v1.2.2) (2023-04-13)
+
+
+### Bug Fixes
+
+* raw string fix ([fe3defc](https://github.com/nilsdebruin/copier-template/commit/fe3defc7fadef2aad44717451cc43dffd28e6d98))
+
 ### [1.2.1](https://github.com/nilsdebruin/copier-template/compare/v1.2.0...v1.2.1) (2023-04-13)
 
 
