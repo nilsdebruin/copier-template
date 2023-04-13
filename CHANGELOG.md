@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.1](https://github.com/nilsdebruin/copier-template/compare/v1.2.0...v1.2.1) (2023-04-13)
+
+
+### Bug Fixes
+
+* add exclusion to guid creation of template ([9b51a2f](https://github.com/nilsdebruin/copier-template/commit/9b51a2f91acabbfcd70409a21293f39cb979504d))
+
 ## [1.2.0](https://github.com/nilsdebruin/copier-template/compare/v1.1.1...v1.2.0) (2023-04-13)
 
 
