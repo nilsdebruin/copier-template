@@ -5,9 +5,13 @@ repository_owner:
 copier_template_name:
   type: str
 
+template_guid:
+  type: str
+  default: 4afc07a0-63f3-4e21-af38-3ccbb3e92ffe
+
 _subdirectory: copier-template
 
-_answers_file: ./copier-instances/.copier-answers-copier-template-4afc07a0-63f3-4e21-af38-3ccbb3e92ffe.yml
+_answers_file: ./copier-instances/.copier-answers-copier-template-{{ template_guid }}.yml
 
 _exclude:
     - "~*"

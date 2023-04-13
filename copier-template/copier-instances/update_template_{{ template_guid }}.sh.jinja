@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+set -e
+cd $(git rev-parse --show-toplevel)
+copier -a ./copier-instances/.copier-answers-copier-template-{{ template_guid }}.yml update
