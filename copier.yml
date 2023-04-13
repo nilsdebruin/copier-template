@@ -7,7 +7,7 @@ copier_template_name:
 
 copier_template_guid:
   type: str
-  default: 4afc07a0-63f3-4e21-af38-3ccbb3e92ffe
+  default: "{% from 'guid.jinja' import random_guid %}{{ random_guid() }}"
 
 _subdirectory: copier-template
 
