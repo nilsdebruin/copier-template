@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.3](https://github.com/nilsdebruin/copier-template/compare/v1.2.2...v1.2.3) (2023-04-19)
+
+
+### Bug Fixes
+
+* fixed copier template resolving ([7438466](https://github.com/nilsdebruin/copier-template/commit/7438466b9b1a793890685dc901a1583d59486c2a))
+
 ### [1.2.2](https://github.com/nilsdebruin/copier-template/compare/v1.2.1...v1.2.2) (2023-04-13)
 
 
