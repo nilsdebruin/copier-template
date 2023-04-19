@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.5](https://github.com/nilsdebruin/copier-template/compare/v1.2.4...v1.2.5) (2023-04-19)
+
+
+### Bug Fixes
+
+* whitespace fix ([4910124](https://github.com/nilsdebruin/copier-template/commit/4910124cabef8a94c2c82c94743516da87982210))
+
 ### [1.2.4](https://github.com/nilsdebruin/copier-template/compare/v1.2.3...v1.2.4) (2023-04-19)
 
 
