@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.2.4](https://github.com/nilsdebruin/copier-template/compare/v1.2.3...v1.2.4) (2023-04-19)
+
+
+### Bug Fixes
+
+* removed jinja function ([cf0fccf](https://github.com/nilsdebruin/copier-template/commit/cf0fccf57c5a071bfa80cab502ca7acb317a88e3))
+
 ### [1.2.3](https://github.com/nilsdebruin/copier-template/compare/v1.2.2...v1.2.3) (2023-04-19)
 
 
