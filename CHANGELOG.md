@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.0](https://github.com/nilsdebruin/copier-template/compare/v1.2.5...v1.3.0) (2024-02-01)
+
+
+### Features
+
+* update docs ([cc9edba](https://github.com/nilsdebruin/copier-template/commit/cc9edba93d834e68f4e60846faf6207fa94c8d10))
+
 ### [1.2.5](https://github.com/nilsdebruin/copier-template/compare/v1.2.4...v1.2.5) (2023-04-19)
 
 
