@@ -12,9 +12,9 @@ You can follow these steps to get up and running:
  - Change the defaults if you want or like 
  - Create a template by running the following command: 
 
-```copier gh:<github_organization>/<github_repository_name> <destination_directory>```
+```copier copy gh:<github_organization>/<github_repository_name> <destination_directory>```
 
  - If you want to continue on this template you can run:
 
-```copier gh:nilsdebruin/copier-template <destination_directory>```
+```copier copy gh:nilsdebruin/copier-template <destination_directory>```
 
